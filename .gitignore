@@ -133,3 +133,4 @@ dmypy.json
 2/
 versions/
 credentials.py
+.DS_Store
